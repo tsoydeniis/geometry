@@ -8,6 +8,8 @@
 3. <a href = https://github.com/tsoydeniis/geometric_lib/blob/main/docs/square.md>square<a/>
 4. <a href = https://github.com/tsoydeniis/geometric_lib/blob/main/docs/triangle.md>triangle<a/>
 
+- ## Тестрирование
+  Для запуска тестов можете использовать  ``` python3 -m unittest <Name>```
 - ## История изменений:
 
 - - commit b0f21ef4b55df59978c265c5821736b3a34bbd57 (HEAD -> main, origin/main, origin/HEAD)

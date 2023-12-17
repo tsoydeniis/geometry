@@ -6,7 +6,7 @@ def area(r):
     принимает длинну радиуса окружности, возвращает площадь этой окружности
     print(circle.area(5)) # -> 78.53981633974483
     """
-    return math.pi * r * r
+    return r * r * math.pi
 
 
 def perimeter(r):
@@ -14,7 +14,7 @@ def perimeter(r):
     принимает длинну радиуса окружности, возвращает периметр этой окружности
     print(circle.perimeter(5)) # -> 31.41592653589793
     """
-    return 2 * math.pi * r
+    return r * 2 * math.pi
 
 
 if __name__ == "__main__":
